@@ -1,6 +1,6 @@
 ## 🔥 Olá, meu nome é <strong>Erasmo Junior!</strong>
 
-> Tenho 17 anos e estou cursando Desenvolvimento de Sistemas pelo SENAI-SE
+> Tenho 17 anos e sou formado em Desenvolvimento de Sistemas pelo SENAI-SE
 
 🔭 Estou em busca de experiência profissional e novos desafios, tenho mais afinidade com o desenvolvimento back-end mas gosto de explorar todas as áreas
 
